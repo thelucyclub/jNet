@@ -1,2 +1,0 @@
-# jNet
-A Nukkit extension.
